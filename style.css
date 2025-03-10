@@ -11,7 +11,6 @@ body {
     position: relative;
 }
 
-/* Novo estilo para o título h1 */
 h1 {
     font-size: 3.5em;
     background: linear-gradient(45deg, #FF6B6B, #FFEE7C);
