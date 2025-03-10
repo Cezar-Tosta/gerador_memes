@@ -6,11 +6,11 @@ Bem-vindo ao **Gerador de Memes**, um projeto desenvolvido em **HTML, CSS e Java
 
 ## 🚀 Funcionalidades
 
-✅ Upload de imagens para criação do meme
-✅ Inserção de texto na parte superior e inferior
-✅ Visualização em tempo real da edição do meme
-✅ Download da imagem gerada com os textos aplicados
-✅ Interface intuitiva e responsiva
+- ✅ Upload de imagens para criação do meme
+- ✅ Inserção de texto na parte superior e inferior
+- ✅ Visualização em tempo real da edição do meme
+- ✅ Download da imagem gerada com os textos aplicados
+- ✅ Interface intuitiva e responsiva
 
 ---
 
@@ -58,9 +58,9 @@ Com a imagem e os textos aplicados, seu meme estará pronto para download:
 
 ## 📌 Melhorias Futuras
 
-📌 Adicionar mais opções de personalização (cor, fonte, tamanho do texto)
-📌 Permitir salvar memes diretamente nas redes sociais
-📌 Criar um banco de imagens populares para facilitar a criação
+- 📌 Adicionar mais opções de personalização (cor, fonte, tamanho do texto)
+- 📌 Permitir salvar memes diretamente nas redes sociais
+- 📌 Criar um banco de imagens populares para facilitar a criação
 
 ---
 
