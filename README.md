@@ -87,7 +87,7 @@ Contribuições são bem-vindas! Siga os passos abaixo para colaborar:
 
 ## 🏆 Autor
 
-👤 **Seu Nome**
+👤 **CEZAR DE SOUSA TOSTA**
 - GitHub: [@Cezar-Tosta](https://github.com/Cezar-Tosta)
 - LinkedIn: [Cezar Tosta](https://www.linkedin.com/in/cezar-tosta-b906b3125/)
 
