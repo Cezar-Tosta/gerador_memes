@@ -46,11 +46,11 @@ Com a imagem e os textos aplicados, seu meme estará pronto para download:
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/meme-generator.git
+   git clone https://github.com/seu-usuario/gerador_memes.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd meme-generator
+   cd gerador_memes
    ```
 3. Abra o arquivo `index.html` em um navegador.
 
