@@ -50,7 +50,7 @@ Com a imagem e os textos aplicados, seu meme estará pronto para download:
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd meme-generator
+   cd gerador_memes
    ```
 3. Abra o arquivo `index.html` em um navegador.
 
